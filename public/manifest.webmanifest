@@ -1,0 +1,10 @@
+{
+  "name": "BCVENT Social",
+  "short_name": "BCVENT",
+  "description": "Connect people. Share stories.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060d1b",
+  "theme_color": "#060d1b",
+  "icons": [{ "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" }, { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }, { "src": "/flower.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
